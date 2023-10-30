@@ -9,7 +9,7 @@ for i in range (3):
         break
     else:
         print('LOGIN INCORRECTO. INTENTELO DE NUEVO...')
-        
-print('*****************************')
-print('Ha agotado todos los intentos. ACCESO DENEGADO. LLAMANDO A LA POLICIA...')
+else:
+    print('*****************************')
+    print('Ha agotado todos los intentos. ACCESO DENEGADO. LLAMANDO A LA POLICIA...')
     
